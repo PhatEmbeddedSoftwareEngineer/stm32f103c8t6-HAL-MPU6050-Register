@@ -1,0 +1,4 @@
+../Core/Src/gpio.cpp:11:6:void gpio::TurnOn()	16	static
+../Core/Src/gpio.cpp:16:6:void gpio::TurnOff()	16	static
+../Core/Src/gpio.cpp:21:6:void gpio::Delay(int)	16	static
+../Core/Src/gpio.cpp:26:6:void gpio::MX_GPIO_Init()	24	static

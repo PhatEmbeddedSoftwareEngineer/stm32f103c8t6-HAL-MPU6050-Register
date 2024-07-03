@@ -1,0 +1,7 @@
+../Core/Src/main.cpp:68:6:void MPU6050_Soft_Reset()	1
+../Core/Src/main.cpp:79:5:int main()	2
+../Core/Src/main.cpp:138:6:void SystemClock_Config()	3
+../Core/Src/main.cpp:178:13:void MX_I2C1_Init()	2
+../Core/Src/main.cpp:212:13:void MX_USART1_UART_Init()	2
+../Core/Src/main.cpp:245:13:void MX_GPIO_Init()	1
+../Core/Src/main.cpp:267:6:void Error_Handler()	1
